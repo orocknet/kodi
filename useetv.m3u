@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[002] USee Photo
 rtp://@239.1.1.251:9498
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[003] Usee Info
-rtp://@239.1.2.126:8730
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[007] Usee Otomoto
 rtp://@239.1.1.252:9486
 
