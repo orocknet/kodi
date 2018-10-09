@@ -19,9 +19,6 @@ rtp://@239.1.1.37:8196
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[101] Metro TV
 rtp://@239.1.1.19:8088
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Local Channel",[102] CNN Indonesia
-rtp://@239.1.1.241:9362
-
 #EXTINF:-1 tvg-logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="Local Channel",[103] TV One
 rtp://@239.1.1.31:8160
 
